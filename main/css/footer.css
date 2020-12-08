@@ -1,0 +1,28 @@
+#footer{
+position: fixed;
+bottom: 0%;
+left: 0%;
+background-color: #20B2AA;
+width: 100%;
+height: 40px;
+
+}
+
+#ftrelmnt{
+	font-size: 13px;
+}
+
+.images img{
+	border: 3px solid white;
+}
+
+img:hover{
+	opacity: 0.5
+}
+.rating > span:hover:before {
+   content: "\2605";
+   position: absolute;
+}
+
+
+
